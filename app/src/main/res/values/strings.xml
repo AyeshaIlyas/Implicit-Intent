@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">ImplicitIntent</string>
-    <string name="show_web_page">Show Web Page</string>
-    <string name="enable_link">Enable Link</string>
+    <string name="show_web_page">Go to Ulster Home Page</string>
+    <string name="enable_link">Verify Link</string>
+    <string name="go_far_at_suny_ulster">Go Far at SUNY Ulster</string>
+    <string name="subtitle">SUNY Ulster is a student-centered institution providing learning in an environment of academic excellence, civic responsibility and cultural appreciation.</string>
 </resources>
